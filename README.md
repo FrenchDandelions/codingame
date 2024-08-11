@@ -1,5 +1,3 @@
----
-
 # Webserv Usage Guide
 
 **Version:** 1.0  
@@ -121,5 +119,3 @@ server {
 
 ## Author
 Written by **thole**.
-
----
